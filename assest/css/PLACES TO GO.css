@@ -1,0 +1,561 @@
+.fix {
+    height: auto;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+
+.navbar li {
+    float: left;
+    list-style: none;
+
+}
+
+.navbar li a {
+    color: rgb(238, 9, 112);
+}
+
+.navbar li a:hover {
+    color: rgb(238, 9, 112);
+    background-color: rgb(255, 224, 230);
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-bottom: 8px solid rgb(238, 9, 112);
+}
+
+
+.share li {
+    list-style: none;
+    margin-top: 25px;
+    text-align: end;
+}
+
+.share li a {
+    color: rgb(238, 9, 112);
+}
+
+.share li a:hover {
+    color: rgb(238, 9, 112);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    color: rgb(255, 224, 230);
+    background-color: rgb(255, 224, 230);
+}
+
+.table tr td a:hover {
+    color: rgb(238, 9, 112);
+    background-color: none;
+    border: none;
+    width: none;
+    height: none;
+    text-align: none;
+    border-bottom: none;
+}
+
+.findyourbeach {
+    color: rgb(238, 9, 112);
+}
+
+
+
+.homebeach a {
+    color: black;
+    text-decoration: none;
+}
+
+.homebeach a:hover {
+    text-decoration: none;
+}
+
+
+.center2 {
+    text-align: center;
+    color: rgb(255, 145, 0);
+    letter-spacing: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.northwest a {
+    text-decoration: none;
+    letter-spacing: 4px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.northwest a:hover {
+    text-decoration: underline;
+}
+
+.line {
+    font-size: x-large;
+    letter-spacing: 1px;
+}
+
+.learn a {
+    letter-spacing: 2px;
+    color: white;
+    background-color: rgb(255, 106, 0);
+    border: 1px solid rgb(255, 106, 0);
+    border-radius: 14px;
+}
+
+
+.learn a:hover {
+    color: rgb(255, 106, 0);
+    background-color: white;
+}
+
+
+.ab {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.nw {
+    position: absolute;
+    top: 180px;
+    left: 70px;
+    text-align: left;
+}
+
+
+.nw ul li {
+    list-style: none;
+}
+
+.nw a {
+    color: rgb(0, 69, 0);
+    text-decoration: none;
+}
+
+.nw a:hover {
+    text-decoration: underline;
+}
+
+.own a {
+    color: rgb(0, 69, 0);
+    text-decoration: underline;
+}
+
+
+
+
+.center21 {
+    text-align: center;
+
+}
+
+.center22 {
+    text-align: center;
+    font-size: large;
+}
+
+
+.northwest9 {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.northwest9 a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+.northwest91 a:hover {
+    color: green;
+    background-color: aliceblue;
+    width: 100%;
+    height: auto;
+}
+
+#northwest {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#northwest a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#northwest a:hover {
+    text-decoration: underline;
+}
+
+
+.northcentral {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.northcentral a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#northcentral {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#northcentral a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#northcentral a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+.Northeast {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.Northeast a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#Northeast {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#Northeast a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#Northeast a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+.Central {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.Central a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#Central {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#Central a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#Central a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.CentralEast {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.CentralEast a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#CentralEast {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#CentralEast a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#CentralEast a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+.CentralWest {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.CentralWest a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#CentralWest {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#CentralWest a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#CentralWest a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.Southeast {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.Southeast a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#Southeast {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#Southeast a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#Southeast a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.Southwest {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.Southwest a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#Southwest {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#Southwest a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#Southwest a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.all {
+    color: rgb(243, 247, 243);
+    background-color: rgb(16, 239, 169);
+    width: 100%;
+    height: auto;
+    padding: 6px;
+    border: 1px rgb(8, 184, 184);
+}
+
+.all a {
+    color: rgb(240, 247, 240);
+    text-decoration: none;
+}
+
+#all {
+    background-color: rgb(207, 247, 234);
+
+}
+
+#all a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#all a:hover {
+    text-decoration: underline;
+}
+
+
+.pgo{
+    color: rgb(238, 9, 112);
+}
+.para{
+    font-size: large;
+}
+
+
+.parag a{
+    color: rgb(238, 9, 112);
+    text-decoration: underline;
+}
+
+.parag a:hover{
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+
+
+
+
+
+.center3 {
+    text-align: center;
+    color: rgb(115, 0, 128);
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+.last {
+    background-color: rgb(238, 9, 112);
+}
+
+.end {
+    background-color: rgb(255, 216, 247);
+}
+
+.up {
+    color: rgb(238, 9, 112);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul {
+    list-style: none;
+}
+
+.ul li a {
+    color: rgb(238, 9, 112);
+}
+
+.ul li a:hover {
+    color: rgb(238, 9, 112);
+}
+
+.social {
+    color: rgb(238, 9, 112);
+}
+
+.social a {
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+.contact a {
+    color: rgb(238, 9, 112);
+    text-decoration: underline;
+}
+
+.contact a:hover {
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.fixed-right-bottom {
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+}
+
+.fixed-left-bottom {
+    position: fixed;
+    left: 1px;
+    bottom: 1px;
+}

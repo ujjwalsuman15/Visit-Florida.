@@ -1,0 +1,322 @@
+.fix {
+    height: auto;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+
+.navbar li {
+    float: left;
+    list-style: none;
+
+}
+
+.navbar li a {
+    color: rgb(238, 9, 112);
+}
+
+.navbar li a:hover {
+    color: rgb(238, 9, 112);
+    background-color: rgb(255, 224, 230);
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-bottom: 8px solid rgb(238, 9, 112);
+}
+
+
+.share li {
+    list-style: none;
+    margin-top: 25px;
+    text-align: end;
+}
+
+.share li a {
+    color: rgb(238, 9, 112);
+}
+
+.share li a:hover {
+    color: rgb(238, 9, 112);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    color: rgb(255, 224, 230);
+    background-color: rgb(255, 224, 230);
+}
+
+.table tr td a:hover {
+    color: rgb(238, 9, 112);
+    background-color: none;
+    border: none;
+    width: none;
+    height: none;
+    text-align: none;
+    border-bottom: none;
+}
+
+.findyourbeach {
+    color: rgb(238, 9, 112);
+}
+
+
+
+
+
+.ycbh {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.leftcorner {
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+.leftcorner a {
+    text-decoration: none;
+    color: white;
+}
+
+.leftcenter {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+.rightcorner {
+    position: absolute;
+    top: 200px;
+    right: 10px;
+}
+
+.rightcorner a {
+    text-decoration: none;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    color: rgb(238, 9, 112);
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.image {
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+
+
+
+
+.yt {
+    background-color: rgb(255, 216, 247);
+    color: rgb(142, 7, 117);
+}
+
+.pte {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottomup {
+    position: absolute;
+    bottom: 50px;
+    left: 30px;
+    letter-spacing: 1px;
+}
+
+.bottomup a {
+    color: white;
+    text-decoration: none;
+}
+
+.bottomup a:hover {
+    text-decoration: underline;
+}
+
+.bottomdown {
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+
+}
+
+.bottomdown a {
+    letter-spacing: 2px;
+    color: white;
+    background-color: rgb(238, 9, 112);
+    border: 1px solid rgb(238, 9, 112);
+    border-radius: 14px;
+
+}
+
+.bottomdown a:hover {
+    color: rgb(238, 9, 112);
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 14px;
+}
+
+
+.center2 {
+    text-align: center;
+    color: orange;
+    letter-spacing: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+.northwest a {
+    text-decoration: none;
+    letter-spacing: 4px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.northwest a:hover {
+    text-decoration: underline;
+}
+
+.line {
+font-size: x-large;
+    letter-spacing: 1px;
+}
+
+.learn a {
+    letter-spacing: 2px;
+    color: white;
+    background-color: rgb(255, 106, 0);
+    border: 1px solid rgb(255, 106, 0);
+    border-radius: 14px;
+}
+
+
+.learn a:hover {
+    color: rgb(255, 106, 0);
+    background-color: white;
+}
+
+
+.ab {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.nw {
+    position: absolute;
+    top: 180px;
+    left: 70px;
+    text-align: left;
+}
+
+
+.nw ul li {
+    list-style: none;
+}
+
+.nw a {
+    color: rgb(0, 69, 0);
+    text-decoration: none;
+}
+
+.nw a:hover {
+    text-decoration: underline;
+}
+
+.own a {
+    color: rgb(0, 69, 0);
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.center3 {
+    text-align: center;
+    color: rgb(115, 0, 128);
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+.last {
+    background-color: rgb(238, 9, 112);
+}
+
+.end {
+    background-color: rgb(255, 216, 247);
+}
+
+.up {
+    color: rgb(238, 9, 112);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul {
+    list-style: none;
+}
+
+.ul li a {
+    color: rgb(238, 9, 112);
+}
+
+.ul li a:hover {
+    color: rgb(238, 9, 112);
+}
+
+.social {
+    color: rgb(238, 9, 112);
+}
+
+.social a {
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+.contact a {
+    color: rgb(238, 9, 112);
+    text-decoration: underline;
+}
+
+.contact a:hover {
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.fixed-right-bottom {
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+}
+
+.fixed-left-bottom {
+    position: fixed;
+    left: 1px;
+    bottom: 1px;
+}

@@ -1,0 +1,162 @@
+.fix {
+    height: auto;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+
+.navbar li {
+    float: left;
+    list-style: none;
+
+}
+
+.navbar li a {
+    color: rgb(238, 9, 112);
+}
+
+.navbar li a:hover {
+    color: rgb(238, 9, 112);
+    background-color: rgb(255, 224, 230);
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-bottom: 8px solid rgb(238, 9, 112);
+}
+
+
+.share li {
+    list-style: none;
+    margin-top: 25px;
+    text-align: end;
+}
+
+.share li a {
+    color: rgb(238, 9, 112);
+}
+
+.share li a:hover {
+    color: rgb(238, 9, 112);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    color: rgb(255, 224, 230);
+    background-color: rgb(255, 224, 230);
+}
+
+.table tr td a:hover {
+    color: rgb(238, 9, 112);
+    background-color: none;
+    border: none;
+    width: none;
+    height: none;
+    text-align: none;
+    border-bottom: none;
+}
+
+.findyourbeach {
+    color: rgb(238, 9, 112);
+}
+
+
+
+
+
+
+
+.center2 {
+    text-align: center;
+    color: rgb(238, 9, 112);
+    letter-spacing: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.homebeach a {
+    color: black;
+}
+
+.homebeach a:hover {
+    text-decoration: none;
+}
+
+
+.center3 {
+    text-align: center;
+    color: rgb(115, 0, 128);
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+
+.last {
+    background-color: rgb(238, 9, 112);
+}
+
+.end {
+    background-color: rgb(255, 216, 247);
+}
+
+.up {
+    color: rgb(238, 9, 112);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul {
+    list-style: none;
+}
+
+.ul li a {
+    color: rgb(238, 9, 112);
+}
+
+.ul li a:hover {
+    color: rgb(238, 9, 112);
+}
+
+.social {
+    color: rgb(238, 9, 112);
+}
+
+.social a {
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+.contact a {
+    color: rgb(238, 9, 112);
+    text-decoration: underline;
+}
+
+.contact a:hover {
+    color: rgb(238, 9, 112);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.fixed-right-bottom {
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+}
+
+.fixed-left-bottom {
+    position: fixed;
+    left: 1px;
+    bottom: 1px;
+}
